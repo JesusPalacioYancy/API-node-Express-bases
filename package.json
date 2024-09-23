@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-express",
+  "version": "1.0.0",
+  "description": "mi primer server con Node y Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Palacio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
